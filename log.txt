@@ -1,0 +1,55 @@
+[2025-05-10 02:12:23] Commit: update workflow file
+[2025-06-05 10:03:16] Commit: Merge branch 'develop'
+
+# Conflicts:
+#	README.md
+#	app/page.tsx
+#	components/featured-property.tsx
+#	public/hero-background.jpg
+[2025-06-05 11:07:27] Commit: env
+[2025-06-05 11:10:10] Commit: Merge branch 'main' of https://github.com/tao-Isaman/tedin-easy
+[2025-06-05 11:21:54] Commit: Merge remote-tracking branch 'origin/Jam'
+[2025-06-05 11:30:28] Commit: Merge branch 'main' of https://github.com/tao-Isaman/tedin-easy
+[2025-06-05 11:55:39] Commit: Update bun Solved to pnpm
+[2025-06-06 05:49:08] Commit: Merge branch 'Jay'
+[2025-06-06 18:58:14] Commit: แก้บางส่วน
+[2025-06-06 19:22:43] Commit: Merge branch 'develop'
+[2025-06-07 07:15:36] Commit: แก้หลายจุด
+[2025-06-07 07:31:02] Commit: Merge branch 'main' of https://github.com/tao-Isaman/tedin-easy
+[2025-06-07 08:21:14] Commit: update View t
+[2025-06-07 08:44:10] Commit: Merge branch 'feature/F1'
+[2025-06-07 09:20:22] Commit: แก้ลืมรหหัสผ่าน
+[2025-06-07 10:04:26] Commit: ปรับแก้การเปลี่ยนรหัสผ่าน
+[2025-06-07 10:45:16] Commit: Merge branch 'feature/F1'
+[2025-06-07 11:29:45] Commit: UI
+[2025-06-07 11:57:51] Commit: Merge branch 'feature/F1'
+[2025-06-07 12:10:15] Commit: Merge branch 'main' of https://github.com/tao-Isaman/tedin-easy
+[2025-06-07 12:16:03] Commit: Merge branch 'main' of https://github.com/tao-Isaman/tedin-easy
+[2025-06-07 12:35:33] Commit: Merge branch 'main' of https://github.com/tao-Isaman/tedin-easy
+[2025-06-07 12:41:40] Commit: Merge branch 'feature/F1'
+[2025-06-07 12:46:23] Commit: Merge branch 'main' of https://github.com/tao-Isaman/tedin-easy
+[2025-06-07 13:48:38] Commit: tase
+[2025-06-07 14:16:26] Commit: Merge branch 'main' of https://github.com/tao-Isaman/tedin-easy
+[2025-06-07 15:18:35] Commit: แก้หน่วง
+[2025-06-07 15:58:45] Commit: ดดดดด
+[2025-06-07 16:55:51] Commit: Merge branch 'feature/F1'
+[2025-06-07 18:03:14] Commit: แก้รัน
+[2025-06-08 08:26:25] Commit: แก้การ์ดอีกละ
+[2025-06-08 08:40:04] Commit: Merge branch 'feature/F1'
+[2025-06-08 13:55:21] Commit: ปรับใหม่
+[2025-06-08 15:58:14] Commit: สวยงาม
+[2025-06-08 18:34:09] Commit: Merge branches 'main' and 'main' of https://github.com/tao-Isaman/tedin-easy
+[2025-06-08 18:55:39] Commit: Merge branch 'main' of https://github.com/tao-Isaman/tedin-easy
+[2025-06-08 18:58:54] Commit: Merge branch 'feature/F1'
+[2025-06-08 19:04:17] Commit: Merge branch 'feature/F1'
+[2025-06-08 20:25:48] Commit: แผนที่
+[2025-06-09 01:53:35] Commit: Merge branch 'develop'
+[2025-06-09 15:11:19] Commit: เปิดเว็บไม่ติดแม่งงงง
+[2025-06-09 15:35:09] Commit: Merge branch 'main' of https://github.com/tao-Isaman/tedin-easy
+[2025-06-09 15:49:56] Commit: Merge branch 'main' of https://github.com/tao-Isaman/tedin-easy
+[2025-06-09 19:10:49] Commit: MAp
+[2025-06-10 12:03:29] Commit: Agent
+
+แก้ระบบ Agent
+[2025-06-10 15:51:34] Commit: Merge branch 'main' of https://github.com/tao-Isaman/tedin-easy
+[2025-06-10 17:02:20] Commit: Merge branch 'feature/F1'
